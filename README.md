@@ -18,3 +18,7 @@
 * `後停滯` - 跑馬燈不會將所有字全部全部跑完，在剩餘８字時停留
 * `豐原客運` - 豐原客運的顯示，特徵是英文只會顯示15個字，其餘會被吃掉
 <br>其餘剩下樣式還需要維修，暫時無法使用
+# 參考影片
+[跑馬燈3.0](https://youtu.be/v9zRNpG0_-c)
+#下載
+[載點](https://github.com/creeper531100/Marquee/releases/download/v1.0/dist.zip)
